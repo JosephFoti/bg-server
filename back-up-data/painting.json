@@ -1,0 +1,120 @@
+[{
+    "id": "painting1",
+    "src": "painting1.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting2",
+    "src": "painting2.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting3",
+    "src": "painting3.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting4",
+    "src": "painting4.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting5",
+    "src": "painting5.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting6",
+    "src": "painting6.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting7",
+    "src": "painting7.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting8",
+    "src": "painting8.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting9",
+    "src": "painting9.jpg",
+    "title": "After The Rain",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2016"
+  },
+
+  {
+    "id": "painting10",
+    "src": "painting10.jpg",
+    "title": "The Mask",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2016"
+  },
+
+  {
+    "id": "painting11",
+    "src": "painting11.jpg",
+    "title": "A Typical Florentine Wall",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2015"
+  },
+
+  {
+    "id": "painting12",
+    "src": "painting12.jpg",
+    "title": "The Fifth Element",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  },
+
+  {
+    "id": "painting13",
+    "src": "painting13.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2015"
+  },
+
+  {
+    "id": "painting14",
+    "src": "painting14.jpg",
+    "title": "Untitled",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2015"
+  },
+
+  {
+    "id": "painting15",
+    "src": "painting15.jpg",
+    "title": "Busted",
+    "info": "Acrilic on Canvas, Available for Purchase",
+    "year": "2014"
+  }
+]
