@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Collection</title>
+    <link rel="stylesheet" href="../../styles/editor.css">
+  </head>
+  <body>
+    <h1>Collection Editor</h1>
+    <div id="main">
+      <h1><%= data.name %></h1>
+    </div>
+    <div id="gallery">
+      <% for (let item of data.content) { %>
+        <div class="gallery-item">
+          <img src=<%= `../../images/${data.name}/${item.src}` %>>
+          <h3><%= item.title %></h3>
+          <h3><%= item.year %></h3>
+          <h3><%= item.info %></h3>
+        </div>
+      <% } %>
+    </div>
+  </body>
+</html>

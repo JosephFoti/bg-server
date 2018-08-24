@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>HOME!</h1>
+
+    <div id="collections" alt="Collections">
+      <% for (let collection of collections) { %>
+        <a href=<%= `./admin/collections/${collection}` %>><h3><%= collection %></h3>
+      <% } %>
+    </div>
+
+  </body>
+</html>
